@@ -52,5 +52,6 @@ HOW TO DEPLOY VUE IN GH-PAGES
 6. Now we are set to go. To deploy your Vue app with GitHub Pages, simply run this command below:
   npm run deploy
 
+Reference: https://blog.logrocket.com/build-deploy-vue-js-app-github-pages/
 
 Your Vue app is live! Happy Hacking!! :)
